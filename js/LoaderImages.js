@@ -34,7 +34,6 @@
 			_this.progress();
 			_this.dispatch();
 		}
-		//_img_.src = _images[_loaded].image;
 		_img_.src = _images[_loaded];
 	}
 
