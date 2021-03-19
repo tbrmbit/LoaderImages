@@ -1,2 +1,2 @@
 # LoaderImages
-Class to control loading to images
+Helping manager your images
